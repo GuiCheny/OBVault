@@ -151,11 +151,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
   "active": "cb6c86e348fc1ce1",
   "lastOpenFiles": [
+    "README.md",
     "A-HomePage/未命名.canvas",
     "A-HomePage/HomePage.md",
     "H-Attatchment/h1-Files",
