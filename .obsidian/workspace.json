@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be1914158bb4eb29",
+        "id": "6404acadb5775c69",
         "type": "tabs",
         "children": [
           {
-            "id": "cb6c86e348fc1ce1",
+            "id": "d3c5492ec4fc11ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "A-HomePage/HomePage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -152,14 +152,19 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-kanban:创建新看板": false
+      "obsidian-kanban:创建新看板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cb6c86e348fc1ce1",
+  "active": "d3c5492ec4fc11ce",
   "lastOpenFiles": [
+    "Obsidian Usage.md",
     "README.md",
-    "A-HomePage/未命名.canvas",
     "A-HomePage/HomePage.md",
+    "C-Self/b2-Diary/2024-07-22-星期一.md",
+    "2024-07-22.md",
+    "C-Self/b2-Diary/01-Daily/未命名.md",
+    "A-HomePage/未命名.canvas",
     "H-Attatchment/h1-Files",
     "未命名",
     "未命名.md",
@@ -170,11 +175,9 @@
     "E-Resource/e1-Book",
     "G-Archive",
     "C-Self",
-    "F-Teamplate",
+    "F-Template",
     "D-Project",
     "create a link.md",
-    "Obsidian Usage.md",
-    "2024-07-22.md",
     "未命名.canvas"
   ]
 }

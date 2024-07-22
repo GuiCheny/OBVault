@@ -4,6 +4,7 @@
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "quickadd",
-  "contribution-graph",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "contribution-graph"
 ]
