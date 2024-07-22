@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bcc46f1e2a4630cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "be1914158bb4eb29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6c86e348fc1ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-HomePage/HomePage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa50aa036e7c9a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56d8af6c68955cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fadf5197f5f5c77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d07387a42c1fc31b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d8345571c0feb08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b30501f756bf349",
+    "type": "split",
+    "children": [
+      {
+        "id": "4edbcd927bc7cbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4bf88fc38a61ba0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A-HomePage/HomePage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39fbeb322bd29d38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A-HomePage/HomePage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f41cb480fa3542f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98f093311092b176",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A-HomePage/HomePage.md"
+              }
+            }
+          },
+          {
+            "id": "e9fb5b8af61b6852",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cb6c86e348fc1ce1",
+  "lastOpenFiles": [
+    "A-HomePage/未命名.canvas",
+    "A-HomePage/HomePage.md",
+    "H-Attatchment/h1-Files",
+    "未命名",
+    "未命名.md",
+    "C-Self/b4-Relationship",
+    "B-Self/未命名.md",
+    "C-Self/b3-Event",
+    "E-Resource/e3-Profession",
+    "E-Resource/e1-Book",
+    "G-Archive",
+    "C-Self",
+    "F-Teamplate",
+    "D-Project",
+    "create a link.md",
+    "Obsidian Usage.md",
+    "2024-07-22.md",
+    "未命名.canvas"
+  ]
+}
