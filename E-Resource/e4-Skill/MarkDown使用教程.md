@@ -70,4 +70,9 @@
 
 ![[]]
 
+`incline code`
+
+``` python
+print('hello world')
+```
 

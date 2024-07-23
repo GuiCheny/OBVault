@@ -8,5 +8,7 @@
   "contribution-graph",
   "contribution-widget",
   "calendar",
-  "heatmap-calendar"
+  "heatmap-calendar",
+  "obsidian-style-settings",
+  "table-editor-obsidian"
 ]
