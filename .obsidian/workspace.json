@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f6344ade99194782",
+        "id": "05a17d68533467f8",
         "type": "tabs",
         "children": [
           {
-            "id": "ca613ae67b66cde8",
+            "id": "67b77a9f4bf4f808",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1699f823772c8207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaab75f8f04467c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,14 +159,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca613ae67b66cde8",
+  "active": "aaab75f8f04467c5",
   "lastOpenFiles": [
+    "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
+    "F-Template/Daily.md",
     "D-Project/未命名看板.md",
     "C-Self/b1-Todo List/未命名看板.md",
     "A-HomePage/HomePage.md",
