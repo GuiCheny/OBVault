@@ -1,10 +1,11 @@
 [
-  "calendar",
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
   "quickadd",
   "obsidian-git",
   "templater-obsidian",
-  "contribution-graph"
+  "contribution-graph",
+  "contribution-widget",
+  "calendar"
 ]
