@@ -1,0 +1,167 @@
+{
+  "workspaces": {
+    "V1.0": {
+      "main": {
+        "id": "bcc46f1e2a4630cc",
+        "type": "split",
+        "children": [
+          {
+            "id": "b40616c984dfb970",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f8d028e0f8315420",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "aa50aa036e7c9a8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b56d8af6c68955cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0fadf5197f5f5c77",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "d07387a42c1fc31b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "4d8345571c0feb08",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "3b30501f756bf349",
+        "type": "split",
+        "children": [
+          {
+            "id": "4edbcd927bc7cbc9",
+            "type": "tabs",
+            "dimension": 41.27906976744186,
+            "children": [
+              {
+                "id": "f4bf88fc38a61ba0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "39fbeb322bd29d38",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "097e88789fc762e7",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "060f8f2825670705",
+            "type": "tabs",
+            "dimension": 58.720930232558146,
+            "children": [
+              {
+                "id": "f41cb480fa3542f4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "98f093311092b176",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 309.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-kanban:创建新看板": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "f8d028e0f8315420",
+      "mtime": "2024-07-23T17:22:56+08:00"
+    }
+  },
+  "active": "V1.0"
+}
