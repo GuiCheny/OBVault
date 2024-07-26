@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-Template/Daily.md",
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-Template/Daily.md",
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-Template/Daily.md"
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md"
               }
             }
           }
@@ -184,17 +183,18 @@
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "a4da35486365ff17",
+  "active": "a40ec51ef79ccc6d",
   "lastOpenFiles": [
+    "F-Template/Daily.md",
     "Obsidian Usage.md",
     "E-Resource/e4-Skill/MarkDown使用教程.md",
     "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
     "A-HomePage/HomePage.md",
     "F-Template/未命名看板.md",
-    "F-Template/Daily.md",
     "E-Resource/e4-Skill",
     "D-Project/未命名看板.md",
     "C-Self/b1-Todo List/未命名看板.md",

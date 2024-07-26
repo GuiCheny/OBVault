@@ -4,7 +4,7 @@
     "settings": {}
   },
   "calloutDetection": {
-    "obsidian": true,
+    "obsidian": false,
     "theme": true,
     "snippet": true
   }
