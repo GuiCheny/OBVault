@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-HomePage/HomePage.md",
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-HomePage/HomePage.md",
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-HomePage/HomePage.md",
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-HomePage/HomePage.md"
+                "file": "E-Resource/e4-Skill/MarkDown使用教程.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "a40ec51ef79ccc6d",
   "lastOpenFiles": [
-    "F-Template/未命名看板.md",
     "A-HomePage/HomePage.md",
+    "F-Template/未命名看板.md",
     "F-Template/Daily.md",
     "E-Resource/e4-Skill/MarkDown使用教程.md",
     "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",

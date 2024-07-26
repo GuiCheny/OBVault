@@ -38,7 +38,7 @@
 > Quote
 > > say
 
-> [!NOTE] Title
+> [!NOTE]- Title
 > content
 > >[!INFO] Info
 > > content
