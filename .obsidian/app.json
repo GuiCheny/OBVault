@@ -1,5 +1,6 @@
 {
   "trashOption": "local",
   "newFileLocation": "current",
-  "attachmentFolderPath": "H-Attatchment/h1-Files"
+  "attachmentFolderPath": "H-Attatchment/h1-Files",
+  "promptDelete": false
 }

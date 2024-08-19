@@ -11,8 +11,30 @@
             "id": "6a6cc0ec602748b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8dea79a793b1c2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db553d2f739f3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/Dijkstra.md"
+              }
             }
           }
         ]
@@ -162,6 +188,10 @@
   "active": "6a6cc0ec602748b9",
   "lastOpenFiles": [
     "E-Resource/e4-Skill/MarkDown使用教程.md",
+    "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
+    "未命名.md",
+    "E-Resource/e3-Profession/Algorithm",
+    "E-Resource/e4-Skill/未命名",
     "F-Template/Daily.md",
     "Obsidian Usage.md",
     "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
@@ -181,15 +211,12 @@
     "A-HomePage/未命名.canvas",
     "H-Attatchment/h1-Files",
     "未命名",
-    "未命名.md",
     "C-Self/b4-Relationship",
     "B-Self/未命名.md",
     "C-Self/b3-Event",
     "E-Resource/e3-Profession",
     "E-Resource/e1-Book",
     "G-Archive",
-    "C-Self",
-    "F-Template",
     "create a link.md",
     "未命名.canvas"
   ]
