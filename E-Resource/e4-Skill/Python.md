@@ -1,16 +1,27 @@
-## 一些概念
 
-
-- **软件包（package）** 是一组相关的模块的集合，用于组织代码、复用代码和管理项目结构。它通过将多个模块组织在一个目录中形成一个逻辑的分层结构，便于维护和使用。一个包是一个包含模块的目录，并且该目录下有一个特殊的文件，名为 `__init__.py`。这个文件可以为空，但它标识了这个目录是一个包，可以包含多个模块或子包。包的作用是组织模块，使代码结构更加清晰和模块化。
-
-- **模块（module）**: 一个模块是一个包含 Python 代码的文件，通常以 `.py` 结尾。模块可以定义函数、类和变量，甚至可以包含可执行代码。
-
+>稳定发行版本==3.5~3.10==，3.8 or 3.10
 
 ## 开发环境
 
-- pytharm
-- vscode
-- jupyter notebook
+- VScode:代码编辑器
+- Pycharm:适合复杂项目的开发
+- Jupyter notebook:交互式笔记本
+- Anaconda:开源的Python发行版本
+- Miniconda:仅仅提供conda包管理工具
+
+## 一些概念
+
+
+- **软件包（package** 是一组相关的模块的集合。该目录下有一个特殊的文件，名为 `__init__.py`，文件可以为空。用于组织代码、复用代码和管理项目结构，使代码结构更加清晰和模块化。
+
+- **模块（module**: 一个模块是一个包含 Python 代码的文件，通常以 `.py` 结尾。模块可以定义函数、类和变量，甚至可以包含可执行代码`if __name__ == '__main__':`。
+
+- 
+
+
+
+
+
 
 ## 语法
 
@@ -92,7 +103,15 @@ Returns:
 
 ### 查找函数用法
 
+查看官方文档
+
 import <package_name> dir(<package_name>)
+import <package_name> help(<package_name>.<function_name>)
+
+在 Jupyter Notebook 中，您可以在函数后加上 `?` 来查看函数的文档字符串。
+<package_name>.<function_name>?
+import pandas as pd pd.DataFrame.head?
+
 
 ### 小技巧
 
@@ -107,3 +126,21 @@ a,b = b,a
 
 print大法
 pdb/ipdb命令行调试
+
+
+
+## 使用技巧
+
+  
+
+1. Cell内容类型：Code。。。
+
+2. TAB自动补全
+
+3. 命令记不清楚可以在命令后面+'?'然后运行提示
+
+4. 命令输入不清楚，将光标放入里边，shift双击TAB
+
+5. jupyter notebook远程访问
+
+6. 魔术命令

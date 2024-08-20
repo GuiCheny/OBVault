@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "55d7af2a99346330",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1ac315050c5b0bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "49142202ba3f8e34",
         "type": "tabs",
         "children": [
@@ -32,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "E-Resource/e4-Skill/Python.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -187,12 +169,13 @@
   },
   "active": "5bb8f27b5da0ec6f",
   "lastOpenFiles": [
+    "E-Resource/e3-Profession/Algorithm/灰色关联度分析.md",
+    "E-Resource/e4-Skill/Python.md",
+    "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/MarkDown.md",
     "E-Resource/e4-Skill/linux_t.md",
     "E-Resource/e4-Skill/Jupyter Notebook.md",
     "E-Resource/e4-Skill/Git.md",
-    "E-Resource/e4-Skill/Python.md",
-    "E-Resource/e3-Profession/Algorithm/灰色关联度分析.md",
     "Obsidian Usage.md",
     "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
     "E-Resource/e3-Profession/Optimization/线性规划.pdf",
@@ -221,7 +204,6 @@
     "C-Self/b4-Relationship",
     "B-Self/未命名.md",
     "C-Self/b3-Event",
-    "E-Resource/e3-Profession",
     "create a link.md",
     "未命名.canvas"
   ]
