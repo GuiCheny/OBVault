@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
+                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b30501f756bf349",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
+                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
+                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md"
+                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md"
               }
             }
           }
@@ -170,6 +171,7 @@
   "active": "5bb8f27b5da0ec6f",
   "lastOpenFiles": [
     "E-Resource/e3-Profession/Algorithm/灰色关联度分析.md",
+    "E-Resource/e3-Profession/Algorithm/层次分析法.md",
     "E-Resource/e4-Skill/Python.md",
     "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/MarkDown.md",
