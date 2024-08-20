@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
+                "file": "E-Resource/e4-Skill/Python.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbe7dabfede00690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aec6bfffcf5c400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e4-Skill/Python.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3b30501f756bf349",
@@ -87,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
+                "file": "E-Resource/e4-Skill/Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md",
+                "file": "E-Resource/e4-Skill/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/层次分析法.md"
+                "file": "E-Resource/e4-Skill/Python.md"
               }
             }
           }
@@ -168,12 +185,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5bb8f27b5da0ec6f",
+  "active": "8aec6bfffcf5c400",
   "lastOpenFiles": [
-    "E-Resource/e4-Skill/Python.md",
     "E-Resource/e4-Skill/MarkDown.md",
-    "Obsidian Usage.md",
     "E-Resource/e3-Profession/Algorithm/层次分析法.md",
+    "E-Resource/e4-Skill/Python.md",
+    "Obsidian Usage.md",
     "E-Resource/e3-Profession/Algorithm/灰色关联度分析.md",
     "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/linux_t.md",
