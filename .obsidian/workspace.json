@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e4-Skill/Linux.md",
-                "mode": "preview",
+                "file": "E-Resource/e3-Profession/机器学习/未命名.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e4-Skill/Linux.md",
+                "file": "E-Resource/e3-Profession/机器学习/未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e4-Skill/Linux.md",
+                "file": "E-Resource/e3-Profession/机器学习/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e4-Skill/Linux.md"
+                "file": "E-Resource/e3-Profession/机器学习/未命名.md"
               }
             }
           }
@@ -171,33 +171,34 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "d8c688e44f58cbb7",
+  "active": "0fadf5197f5f5c77",
   "lastOpenFiles": [
-    "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
-    "E-Resource/e3-Profession/Optimization/线性规划.pdf",
+    "E-Resource/e3-Profession/Algorithm/未命名.md",
+    "E-Resource/e3-Profession/机器学习/未命名.md",
+    "E-Resource/e3-Profession/机器学习",
+    "E-Resource/e3-Profession/Algorithm/未命名",
+    "E-Resource/e4-Skill/Linux.md",
+    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
+    "E-Resource/e3-Profession/最优化/线性规划.pdf",
     "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
     "E-Resource/e4-Skill/Python.md",
     "E-Resource/e4-Skill/其他命令.md",
-    "E-Resource/e4-Skill/Linux.md",
     "E-Resource/e4-Skill/Conda.md",
     "E-Resource/e4-Skill/Jupyter Notebook.md",
-    "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
+    "E-Resource/e3-Profession/系统分析/灰色关联度分析.md",
     "Obsidian Usage.md",
-    "E-Resource/e3-Profession/Algorithm/统计分析",
-    "E-Resource/e3-Profession/Algorithm/图论与网络优化/Dijkstra.md",
-    "E-Resource/e3-Profession/Algorithm/未命名.md",
-    "E-Resource/e3-Profession/Algorithm/图论与网络优化",
-    "E-Resource/e3-Profession/Algorithm/决策分析/层次分析法.md",
-    "E-Resource/e3-Profession/Algorithm/系统分析",
-    "E-Resource/e3-Profession/Algorithm/决策分析",
+    "E-Resource/e3-Profession/统计分析",
+    "E-Resource/e3-Profession/图论与网络优化/Dijkstra.md",
+    "E-Resource/e3-Profession/图论与网络优化",
+    "E-Resource/e3-Profession/决策分析/层次分析法.md",
+    "E-Resource/e3-Profession/系统分析",
+    "E-Resource/e3-Profession/决策分析",
     "E-Resource/e4-Skill/MarkDown.md",
-    "E-Resource/e3-Profession/未命名",
     "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/Git.md",
-    "E-Resource/e3-Profession/Optimization",
+    "E-Resource/e3-Profession/最优化",
     "未命名.md",
     "E-Resource/e3-Profession/Algorithm",
-    "E-Resource/e4-Skill/未命名",
     "F-Template/Daily.md",
     "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
     "A-HomePage/HomePage.md",
