@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f2646836573445",
+        "id": "63d9737249a146ff",
         "type": "tabs",
         "children": [
           {
-            "id": "7af231a3dc7d08b6",
+            "id": "c589226491f2826b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa56a1042df7a67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f23d6101a31c8a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -172,10 +190,11 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "7af231a3dc7d08b6",
+  "active": "c589226491f2826b",
   "lastOpenFiles": [
-    "E-Resource/e3-Profession/机器学习/线性模型/线性模型概述.md",
+    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/线性模型概述.md",
     "E-Resource/e3-Profession/机器学习/未命名.md",
     "E-Resource/e3-Profession/机器学习/线性模型",
     "E-Resource/e3-Profession/机器学习/机器学习概述.md",
@@ -183,7 +202,6 @@
     "E-Resource/e3-Profession/机器学习",
     "E-Resource/e3-Profession/Algorithm/未命名",
     "E-Resource/e4-Skill/Linux.md",
-    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/最优化/线性规划.pdf",
     "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
     "E-Resource/e4-Skill/Python.md",
