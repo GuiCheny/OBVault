@@ -1,6 +1,6 @@
 
-
 ## conda指令
+
 - 更新conda:conda update conda
 - 查看环境列表:conda env list/conda info --env/--ec
 - 创建环境:conda create --name myenv

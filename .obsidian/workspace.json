@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+                "file": "E-Resource/e4-Skill/Conda.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+                "file": "E-Resource/e4-Skill/Conda.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+                "file": "E-Resource/e4-Skill/Conda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md"
+                "file": "E-Resource/e4-Skill/Conda.md"
               }
             }
           }
@@ -190,9 +190,9 @@
   },
   "active": "76d33f51ac327190",
   "lastOpenFiles": [
-    "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
-    "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
     "E-Resource/e4-Skill/Conda.md",
+    "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+    "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
     "E-Resource/e3-Profession/Algorithm/统计分析",
     "E-Resource/e3-Profession/Optimization/线性规划.pdf",
     "Obsidian Usage.md",
