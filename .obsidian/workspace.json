@@ -4,36 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49142202ba3f8e34",
+        "id": "cfe733194d7fe46d",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb8f27b5da0ec6f",
+            "id": "f74dd2c827e64080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bbe7dabfede00690",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8aec6bfffcf5c400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
-                "mode": "preview",
-                "source": true
+                "file": "E-Resource/e3-Profession/Optimization/线性规划.pdf",
+                "page": 1,
+                "left": -82,
+                "top": 819,
+                "zoom": 1.1
               }
             }
           }
@@ -104,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
+                "file": "E-Resource/e3-Profession/Optimization/线性规划.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md",
+                "file": "E-Resource/e3-Profession/Optimization/线性规划.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e4-Skill/Python.md"
+                "file": "E-Resource/e3-Profession/Optimization/线性规划.pdf"
               }
             }
           }
@@ -182,24 +166,30 @@
       "templater-obsidian:Templater": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5bb8f27b5da0ec6f",
+  "active": "f41cb480fa3542f4",
   "lastOpenFiles": [
-    "E-Resource/e4-Skill/MarkDown.md",
-    "E-Resource/e3-Profession/Algorithm/未命名.md",
-    "E-Resource/e3-Profession/未命名",
-    "E-Resource/e4-Skill/Python.md",
-    "E-Resource/e3-Profession/Algorithm/层次分析法.md",
     "Obsidian Usage.md",
-    "E-Resource/e3-Profession/Algorithm/灰色关联度分析.md",
+    "E-Resource/e3-Profession/Optimization/线性规划.pdf",
+    "E-Resource/e4-Skill/Python.md",
+    "E-Resource/e3-Profession/Algorithm/图论与网络优化/Dijkstra.md",
+    "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
+    "E-Resource/e3-Profession/Algorithm/未命名.md",
+    "E-Resource/e3-Profession/Algorithm/图论与网络优化",
+    "E-Resource/e3-Profession/Algorithm/决策分析/层次分析法.md",
+    "E-Resource/e3-Profession/Algorithm/系统分析",
+    "E-Resource/e3-Profession/Algorithm/决策分析",
+    "E-Resource/e4-Skill/MarkDown.md",
+    "E-Resource/e3-Profession/未命名",
     "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/linux_t.md",
     "E-Resource/e4-Skill/Jupyter Notebook.md",
     "E-Resource/e4-Skill/Git.md",
-    "E-Resource/e3-Profession/Algorithm/Dijkstra.md",
-    "E-Resource/e3-Profession/Optimization/线性规划.pdf",
     "E-Resource/e3-Profession/Optimization",
     "未命名.md",
     "E-Resource/e3-Profession/Algorithm",
@@ -220,9 +210,6 @@
     "2024-07-22.md",
     "C-Self/b2-Diary/01-Daily/未命名.md",
     "A-HomePage/未命名.canvas",
-    "H-Attatchment/h1-Files",
-    "未命名",
-    "C-Self/b4-Relationship",
     "未命名.canvas"
   ]
 }

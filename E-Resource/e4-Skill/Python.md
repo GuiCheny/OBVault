@@ -408,7 +408,16 @@ pdb/ipdb命令行调试
 
 6. 魔术命令
 
-## 不同IDE
+## 不同IDE的使用
+
+### pycharm
+
+### vscode
+
+#### 
+
+### jupyter notebook
+
 
 ## 常用软件包
 
