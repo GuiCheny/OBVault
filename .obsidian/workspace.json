@@ -4,18 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "6dbc66518084c6a9",
+        "id": "191a1e65ead763cc",
         "type": "tabs",
         "children": [
           {
-            "id": "bfa13f000436da68",
+            "id": "ba87181acfbb2e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a453d92d10b77ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08ead6295a0acbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md"
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md"
               }
             }
           }
@@ -171,16 +189,19 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "bfa13f000436da68",
+  "active": "ba87181acfbb2e4e",
   "lastOpenFiles": [
-    "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+    "E-Resource/e4-Skill/Python.md",
+    "E-Resource/e4-Skill/其他命令.md",
+    "E-Resource/e4-Skill/Linux.md",
+    "E-Resource/e4-Skill/Conda.md",
+    "E-Resource/e4-Skill/Jupyter Notebook.md",
     "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
+    "E-Resource/e3-Profession/Algorithm/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
     "Obsidian Usage.md",
-    "E-Resource/e4-Skill/Conda.md",
     "E-Resource/e3-Profession/Algorithm/统计分析",
     "E-Resource/e3-Profession/Optimization/线性规划.pdf",
-    "E-Resource/e4-Skill/Python.md",
     "E-Resource/e3-Profession/Algorithm/图论与网络优化/Dijkstra.md",
     "E-Resource/e3-Profession/Algorithm/未命名.md",
     "E-Resource/e3-Profession/Algorithm/图论与网络优化",
@@ -190,8 +211,6 @@
     "E-Resource/e4-Skill/MarkDown.md",
     "E-Resource/e3-Profession/未命名",
     "D-Project/d1-车联网项目",
-    "E-Resource/e4-Skill/linux_t.md",
-    "E-Resource/e4-Skill/Jupyter Notebook.md",
     "E-Resource/e4-Skill/Git.md",
     "E-Resource/e3-Profession/Optimization",
     "未命名.md",
@@ -208,7 +227,6 @@
     "C-Self/b2-Diary/2024-07-15-星期一.md",
     "C-Self/b2-Diary/2024-07-02-星期二.md",
     "C-Self/b2-Diary/2024-07-01-星期一.md",
-    "C-Self/b2-Diary/2024-07-22-星期一.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]

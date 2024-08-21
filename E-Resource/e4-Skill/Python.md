@@ -9,6 +9,20 @@
 - Anaconda:开源的Python发行版本
 - Miniconda:仅仅提供conda包管理工具
 
+## Python 命令
+
+- **python/python3**
+
+```bash
+>>> python
+>>>
+>>> python3 script.py
+>>> 
+>>> python --version
+>>> 
+>>> exit()
+```
+
 ## 一些概念
 
 
@@ -421,9 +435,22 @@ pdb/ipdb命令行调试
 
 ## 常用软件包
 
-| 名称           | 功能           |
-| -------------- | -------------- |
-| **pandas**     |                |
-| **scipy**      |                |
-| **palettable** | Python调色板库 |
-|                |                |
+##### pandas 
+
+##### scipy
+
+##### palettable
+
+Python调色板库
+
+##### pytorch
+
+[Pytorch](https://pytorch.org/)是由Facebook开发的开源深度学习框架。
+
+```bash
+>>> python
+>>> 
+>>> import torch
+>>> torch.cuda.is_available() #检查CPU是否可用
+True
+```
