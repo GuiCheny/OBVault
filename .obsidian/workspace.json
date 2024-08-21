@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a4f6a26634365c",
+        "id": "6dbc66518084c6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "76d33f51ac327190",
+            "id": "bfa13f000436da68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e4-Skill/Conda.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d8b8e095e98d295",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ed82a20aabc75ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e4-Skill/Conda.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e4-Skill/Conda.md",
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e4-Skill/Conda.md"
+                "file": "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md"
               }
             }
           }
@@ -185,17 +167,19 @@
       "callout-manager:Insert Callout": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "76d33f51ac327190",
+  "active": "bfa13f000436da68",
   "lastOpenFiles": [
-    "E-Resource/e4-Skill/Conda.md",
     "E-Resource/e3-Profession/Algorithm/统计分析/Pearson相关系数.md",
+    "E-Resource/e3-Profession/Algorithm/统计分析/未命名.md",
     "E-Resource/e3-Profession/Algorithm/系统分析/灰色关联度分析.md",
+    "Obsidian Usage.md",
+    "E-Resource/e4-Skill/Conda.md",
     "E-Resource/e3-Profession/Algorithm/统计分析",
     "E-Resource/e3-Profession/Optimization/线性规划.pdf",
-    "Obsidian Usage.md",
     "E-Resource/e4-Skill/Python.md",
     "E-Resource/e3-Profession/Algorithm/图论与网络优化/Dijkstra.md",
     "E-Resource/e3-Profession/Algorithm/未命名.md",
@@ -225,7 +209,6 @@
     "C-Self/b2-Diary/2024-07-02-星期二.md",
     "C-Self/b2-Diary/2024-07-01-星期一.md",
     "C-Self/b2-Diary/2024-07-22-星期一.md",
-    "2024-07-22.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]

@@ -20,9 +20,33 @@ $\Large{cov(x, y)} = \frac{\sum_{i=1}^n (X_i - \overline{X})(Y_i - \overline{Y})
 
 ## Pearson相关系数
 
-$\Large{cov(x, y)} = \frac{\sum_{i=1}^n\frac{(X_i - \overline{X})}{\sigma X}\frac{(Y_i - \overline{Y})}{\sigma Y} }{n}$
+皮尔逊相关系数（Pearson Correlation Coefficient），也称为皮尔逊积矩相关系数，是一种用于衡量两个变量之间线性相关程度的统计量，其实就是标准化后的协方差，消除了变量尺度的影响。
 
-皮尔逊相关系数其实就是标准化后的协方差。
+$\Large{\rho_{X,Y}}= \frac{cov(X, Y)}{\sigma_X\sigma_Y} = \frac{\sum_{i=1}^n\frac{(X_i - \overline{X})}{\sigma_X}\frac{(Y_i - \overline{Y})}{\sigma_Y} }{n}$
+
+### 数学性质
+
+###### 1. 对称性
+
+$\Large{\rho_{X,Y}}=\Large{\rho_{Y,X}}$
+
+###### 2. 位移不变性
+
+令$X'=X+x_0,Y'=Y+y_0$, $x_0$、$y_0$均为常数，有：
+
+$\Large{\rho_{X',Y'}}=\Large{\rho_{X,Y}}$
+
+因为，
+
+$\overline{X' - \mu_{x'}}=E[(X+x_0)-(\mu_X+x_0)]=\overline{X - \mu_{X}}$
+
+$\overline{Y' - \mu_{y'}}=E[(Y+y_0)-(\mu_Y+y_0)]=\overline{Y - \mu_{Y}}$
+
+###### 3. 尺度不变性
+
+令$X'=k_xX,X'=k_yY$, $k_x$、$k_y$均为常数，有：
+
+$\Large{\rho_{X',Y'}}=\Large{\rho_{X,Y}}$
 
 ### 相关系数评价
 
@@ -33,4 +57,15 @@ $\Large{cov(x, y)} = \frac{\sum_{i=1}^n\frac{(X_i - \overline{X})}{\sigma X}\fra
 | 中相关 | -0.5~-0.3 | 0.3~0.5 |
 | 强相关 | -1~-0.5   | 0.5~1.0 |
 
+### 假设检验
 
+### 注意事项
+
+- 皮尔逊相关系数只是用于衡量线性相关关系的，在数据的分布不清楚的情况下，直接比较皮尔逊相关系数不能说明任何问题，我们==必须画出散点图进行比较==。
+- ==离群点==对于皮尔逊相关系数的影响很大，可以根据情况思考是否要将其
+
+
+## 参考资料
+
+1. <https://blog.csdn.net/weixin_42128414/article/details/131230816>
+2. <https://blog.csdn.net/limiyudianzi/article/details/103437093>
