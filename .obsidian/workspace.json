@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "254f0421f83029e4",
+        "id": "181e00949dfdded3",
         "type": "tabs",
         "children": [
           {
-            "id": "97a912746ab307c0",
+            "id": "d7a7d530496ddd1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e94e8a03b1a30325",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71720b9450f75b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
-                "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md"
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md"
               }
             }
           }
@@ -190,10 +172,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "f71720b9450f75b3",
+  "active": "d7a7d530496ddd1f",
   "lastOpenFiles": [
-    "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
+    "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "E-Resource/e4-Skill/Python.md",
     "E-Resource/e3-Profession/概率论",
     "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
