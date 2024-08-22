@@ -428,6 +428,10 @@ pdb/ipdb命令行调试
 
 ### vscode
 
+如果安装了 Python 插件，`# %%` 标记的代码可以分成单元块，类似于 Jupyter Notebook 的单元格。你可以通过单击单元格上方的运行按钮或者使用快捷键运行该代码块。
+可以看到远程绘图等等
+
+
 #### 
 
 ### jupyter notebook
