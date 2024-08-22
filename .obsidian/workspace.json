@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63d9737249a146ff",
+        "id": "d60e89b32d533923",
         "type": "tabs",
         "children": [
           {
-            "id": "c589226491f2826b",
+            "id": "a7e064d8a4052c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa56a1042df7a67a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f23d6101a31c8a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
-                "mode": "preview",
-                "source": false
               }
             }
           }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md"
+                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md"
               }
             }
           }
@@ -190,11 +172,14 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "0fadf5197f5f5c77",
+  "active": "a7e064d8a4052c54",
   "lastOpenFiles": [
+    "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
+    "E-Resource/e3-Profession/线性代数/正定矩阵.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+    "E-Resource/e3-Profession/线性代数/满秩矩阵.md",
     "E-Resource/e3-Profession/线性代数",
     "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
-    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
     "E-Resource/e3-Profession/机器学习/线性模型/线性模型概述.md",
     "E-Resource/e3-Profession/机器学习/未命名.md",
     "E-Resource/e3-Profession/机器学习/线性模型",
@@ -220,14 +205,11 @@
     "E-Resource/e4-Skill/MarkDown.md",
     "D-Project/d1-车联网项目",
     "E-Resource/e4-Skill/Git.md",
-    "E-Resource/e3-Profession/最优化",
     "未命名.md",
     "F-Template/Daily.md",
     "C-Self/b2-Diary/01-Daily/2024-07-23-星期二.md",
     "A-HomePage/HomePage.md",
     "F-Template/未命名看板.md",
-    "D-Project/未命名看板.md",
-    "C-Self/b1-Todo List/未命名看板.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]
