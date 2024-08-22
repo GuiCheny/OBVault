@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d60e89b32d533923",
+        "id": "ca689e3987c01ff5",
         "type": "tabs",
         "children": [
           {
-            "id": "a7e064d8a4052c54",
+            "id": "ea7ee7c621e996df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/线性代数/可逆矩阵.md"
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md"
               }
             }
           }
@@ -172,15 +172,15 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "a7e064d8a4052c54",
+  "active": "ea7ee7c621e996df",
   "lastOpenFiles": [
+    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
+    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
+    "E-Resource/e3-Profession/线性代数/满秩矩阵.md",
     "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
     "E-Resource/e3-Profession/线性代数/正定矩阵.md",
-    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
-    "E-Resource/e3-Profession/线性代数/满秩矩阵.md",
     "E-Resource/e3-Profession/线性代数",
-    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
-    "E-Resource/e3-Profession/机器学习/线性模型/线性模型概述.md",
     "E-Resource/e3-Profession/机器学习/未命名.md",
     "E-Resource/e3-Profession/机器学习/线性模型",
     "E-Resource/e3-Profession/机器学习/机器学习概述.md",
