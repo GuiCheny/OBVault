@@ -4,40 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2a42ff624ae301",
-        "type": "tabs",
+        "id": "3b5b6cf9aef019a8",
+        "type": "split",
         "children": [
           {
-            "id": "73a59d48a07fb9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
-                "mode": "source",
-                "source": true
+            "id": "984d5eb5dcc0fd6b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5172bc6559c56c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4aa1839ca3ea3d90",
-        "type": "tabs",
-        "children": [
+            ]
+          },
           {
-            "id": "b7f1c6981fba475d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
-                "mode": "preview",
-                "source": false
+            "id": "ab8190cca50200a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bbda279dbdb6c60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -104,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md"
+                "file": "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md"
               }
             }
           }
@@ -190,19 +197,21 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "73a59d48a07fb9c9",
+  "active": "5172bc6559c56c3b",
   "lastOpenFiles": [
-    "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
-    "H-Attatchment/h1-Files/Pasted image 20240822203812.png",
     "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
+    "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
+    "H-Attatchment/h1-Files/Pasted image 20240822203812.png",
+    "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
+    "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
+    "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "E-Resource/e4-Skill/Python.md",
     "E-Resource/e3-Profession/概率论",
-    "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
-    "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
     "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/线性代数/满秩矩阵.md",
-    "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
     "E-Resource/e3-Profession/线性代数/正定矩阵.md",
     "E-Resource/e3-Profession/线性代数",
     "E-Resource/e3-Profession/机器学习/未命名.md",
@@ -228,7 +237,6 @@
     "E-Resource/e4-Skill/MarkDown.md",
     "E-Resource/e4-Skill/Git.md",
     "未命名.md",
-    "F-Template/Daily.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]
