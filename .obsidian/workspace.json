@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "301cc38dbec7dabc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d384f5379718f309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -87,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b30501f756bf349",
@@ -104,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md"
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md"
               }
             }
           }
@@ -190,11 +173,14 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "0fadf5197f5f5c77",
+  "active": "e6f027f8dcd54c1c",
   "lastOpenFiles": [
+    "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
+    "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
+    "E-Resource/e3-Profession/机器学习/集成学习",
+    "E-Resource/e3-Profession/机器学习/未命名 1.md",
     "E-Resource/e3-Profession/数据预处理",
     "E-Resource/e3-Profession/机器学习/线性模型/Lasso回归.md",
-    "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
     "E-Resource/e3-Profession/机器学习/线性模型/岭回归.md",
     "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
     "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
@@ -228,9 +214,6 @@
     "E-Resource/e3-Profession/图论与网络优化/Dijkstra.md",
     "E-Resource/e3-Profession/图论与网络优化",
     "E-Resource/e3-Profession/决策分析/层次分析法.md",
-    "E-Resource/e3-Profession/系统分析",
-    "E-Resource/e3-Profession/决策分析",
-    "E-Resource/e4-Skill/MarkDown.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]
