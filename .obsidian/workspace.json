@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
+                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,18 +22,18 @@
         ]
       },
       {
-        "id": "9d75c816ea2fc044",
+        "id": "8feed22428c4dc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "cda2402801d81998",
+            "id": "39cf2755b6207bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
-                "mode": "source",
-                "source": false
+                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
+                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
+                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md"
+                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md"
               }
             }
           }
@@ -190,7 +190,7 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "1e3bff4dd55fbcc5",
+  "active": "39cf2755b6207bfa",
   "lastOpenFiles": [
     "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
     "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
