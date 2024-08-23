@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "baab4dab23005b2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c8d7e078c85f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -87,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/集成学习/未命名.md"
+                "file": "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md"
               }
             }
           }
@@ -175,8 +193,10 @@
   },
   "active": "e6f027f8dcd54c1c",
   "lastOpenFiles": [
+    "H-Attatchment/h1-Files/集成学习示意图.png",
+    "H-Attatchment/h1-Files/Pasted image 20240822203812.png",
+    "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
     "E-Resource/e3-Profession/机器学习/线性模型/Logistic回归.md",
-    "E-Resource/e3-Profession/机器学习/集成学习/未命名.md",
     "E-Resource/e3-Profession/机器学习/集成学习",
     "E-Resource/e3-Profession/机器学习/未命名 1.md",
     "E-Resource/e3-Profession/数据预处理",
@@ -185,7 +205,6 @@
     "E-Resource/e3-Profession/机器学习/线性模型/线性回归.md",
     "E-Resource/e3-Profession/机器学习/线性模型/线性模型.md",
     "E-Resource/e3-Profession/机器学习/线性模型/最小二乘法.md",
-    "H-Attatchment/h1-Files/Pasted image 20240822203812.png",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "E-Resource/e3-Profession/线性代数/可逆矩阵.md",
     "E-Resource/e3-Profession/概率论/正态分布（高斯分布）.md",
@@ -213,7 +232,6 @@
     "E-Resource/e3-Profession/统计分析",
     "E-Resource/e3-Profession/图论与网络优化/Dijkstra.md",
     "E-Resource/e3-Profession/图论与网络优化",
-    "E-Resource/e3-Profession/决策分析/层次分析法.md",
     "A-HomePage/未命名.canvas",
     "未命名.canvas"
   ]

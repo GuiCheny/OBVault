@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "picture_align"
+  ]
 }
