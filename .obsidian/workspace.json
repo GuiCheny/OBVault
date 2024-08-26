@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
+                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
+                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md",
+                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-Resource/e3-Profession/机器学习/机器学习概述.md"
+                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md"
               }
             }
           }
