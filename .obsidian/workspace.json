@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "371b6218c861ff18",
+        "id": "c8813939b1be113f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb485316d226ee0a",
+            "id": "e33a4bfc354512a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,8 +164,9 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "bb485316d226ee0a",
+  "active": "e33a4bfc354512a1",
   "lastOpenFiles": [
+    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/机器学习/机器学习概述.md",
     "E-Resource/e3-Profession/机器学习/集成学习/Boosting.md",
     "E-Resource/e3-Profession/机器学习/集成学习/个体与集成.md",
@@ -194,7 +187,6 @@
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "E-Resource/e4-Skill/Python.md",
     "E-Resource/e3-Profession/概率论",
-    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/线性代数/满秩矩阵.md",
     "E-Resource/e3-Profession/线性代数/正定矩阵.md",
     "E-Resource/e3-Profession/线性代数",
