@@ -31,19 +31,31 @@ Habit_4:
 - 
 
 ### GTD & Top 3 Tasks
-> [!NOTE]+ Get Things Done
-> 1. 收集：收集所有任务、想法、计划、待办事项。
-> 2. 组织：审视待办任务，分类所有任务和行动步骤，并回顾过往未完成的项目。·分类：审视收集到的任务，将所有任务和行动步骤分类，常见分类包括项目、上下文、时间等，以更清晰地了解任务的优先级和关联性。如果可以快速执行（<2m）就立刻执行。·回顾：定期回顾任务和行动步骤，确保它们的进度和状态得到及时跟进，更好地掌控任务和生活，从而更加高效地完成任务。
-> 3. 执行：专注于当前任务，避免分散注意力，借助时间管理和注意力控制的技巧提高效率。
 
-- [ ] 
+> [!NOTE]+ Get Things Done
+> **1. 收集**：收集所有任务、想法、计划、待办事项。
+> **2. 组织**：审视待办任务，分类所有任务和行动步骤，并回顾过往未完成的项目。
+> > **2.1 分类**：根据任务属性（环境Context、项目Project、状态Status、截止时间Due）分类，单独任务、父子任务、项目类属任务...
+> > 
+> > **2.2 回顾**：定期回顾+跟踪进度，优先级排序。
+> 
+> **3. 执行**：专注于当前任务，避免分散注意力，提高工作效率。
+
+### Todo list
+
+-[ ]
+-[ ]
+-[ ]
+-[ ]
+-[ ]
 
 ###  Morning Checklist
+
+- [ ] clear and tidy 
 - [ ] drink enough water
 - [ ] morning exercises
 - [ ] 10 minutes meditation
 - [ ] clean room for work
-- [ ] review highlights on [readwise](https://readwise.io/dashboard)
 
 ## RELATIONSHIP
 

@@ -1,14 +1,52 @@
  <div style="font-size: 28px;color:#A27E7E"> 🍳 </div>
  
-## 主要设置
 
-- 命令（command）面板：Win【Ctrl+P】 Mac【Command+P】
-- Markdown标记语言编写.
-- 阅读模式（reading view），编辑模式（editing view）和源码模式（source mode）
-- 下载、配置、使用第三方插件
-- 双链的基本用法（引用文件，引用标题，用Block ID引用块）
-- 标签、文件的属性（properties/meta data/front matter）
-- Dataview插件+ Kanban插件+Tasks插件
+
+```contributionWidget
+id: 790989ce-58f7-4c54-8d03-c2c6cc7f1bc8
+type: multi
+titleAlign: center
+tabTitle: ""
+maxWidthRatio: -1
+backgroundStyle: none
+widgets:
+  - id: 90d04826-ad71-4de0-b016-7cba0de4307e
+    type: multi
+    titleAlign: center
+    tabTitle: ""
+    maxWidthRatio: -1
+    backgroundStyle: none
+    widgets:
+      - id: 51707cb6-5865-4ab4-bb81-5baa6cac6f1e
+        type: dateProgress
+        titleAlign: center
+        tabTitle: ""
+        maxWidthRatio: -1
+        backgroundStyle: card
+        showDateIndicator: true
+        showProgressIndicator: true
+        startDateTimeType: $startOfYear
+        endDateTimeType: $endOfYear
+        uiType: bar
+        title: Remaining of 2024
+        backgroundColor: "#292d43"
+        fontColor: "#f1c2e8"
+      - id: f75299d1-2103-468a-8bf5-bf14e54dd0ab
+        type: timing
+        titleAlign: center
+        tabTitle: ""
+        maxWidthRatio: 50
+        backgroundStyle: card
+        showStartDateTime: false
+        timeTextPattern: yMd
+        title: Sdu📝
+        startDateTime: 2024-09-03
+        backgroundColor: "#292d43"
+        fontColor: "#f1c2e8"
+    layoutType: column
+layoutType: column
+
+```
 
 ```contributionGraph
 title: Contributions
