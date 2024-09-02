@@ -17,13 +17,11 @@ weather: <% weather %>
 Habit_1: 
 Habit_2:
 Habit_3:
-Habit_4:
 ---
 
 <div style="font-size: 28px;color:#A27E7E"> 🍳 </div>
 
 ## LIST OF PROGRESS
-
 
 <div class="life-container" style="width:100%;">
 	<div class="life-progress progress-day">0%</div>
@@ -176,7 +174,8 @@ function refreshBar(){
 > 根据个人需求，修改dataview中的时间，让跟进的时间间隔符合你自己的要求
 
 ### Family
- ```dataview
+
+```dataview
 table without ID
 file.link as "Family", date_last_spoken as "Last Time"
 from #people/family 
@@ -185,6 +184,7 @@ and date_last_spoken <= date(today) - dur(2 days)
 ```
 
 ### Friend
+
 ```dataview
 table without ID
 file.link as Friend, date_last_spoken as "Last Time"
@@ -195,6 +195,7 @@ and date_last_spoken <= date(today) - dur(1 week)
  `dice: #people/friend|link`
  
 ### Client
+
 ```dataview
 table without id file.link as Client, date_last_spoken as "Last Time"
 from #people/client 
@@ -204,6 +205,7 @@ and date_last_spoken <= date(today) - dur(2 week)
  `dice: #people/client|link`
  
 ## REVIEW
+
 ### Go Back To The Future
 
 > [!caution] 注意
