@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ab04afeba9a0473b",
+        "id": "3d11930346f323ea",
         "type": "tabs",
         "children": [
           {
-            "id": "ea67a9cfc30e7de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "F-Template/DailyT.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ad1704170725c950",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61d2d5c73910dde4",
+            "id": "c9e2ab674b2d34a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "F-Template/DailyT.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -82,20 +64,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c7d76aab031b7795",
-            "type": "leaf",
-            "state": {
-              "type": "runjs-codelist-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3b30501f756bf349",
@@ -104,7 +78,7 @@
       {
         "id": "4edbcd927bc7cbc9",
         "type": "tabs",
-        "dimension": 41.27906976744186,
+        "dimension": 53.30882352941176,
         "children": [
           {
             "id": "f4bf88fc38a61ba0",
@@ -142,6 +116,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9cef4f49578ef052",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -149,7 +131,7 @@
       {
         "id": "060f8f2825670705",
         "type": "tabs",
-        "dimension": 58.720930232558146,
+        "dimension": 46.69117647058824,
         "children": [
           {
             "id": "f41cb480fa3542f4",
@@ -172,12 +154,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +178,19 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "surfing:surfing-bookmark-manager": false,
-      "runjs:RunJS": false
+      "runjs:RunJS": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ea67a9cfc30e7de2",
+  "active": "c9e2ab674b2d34a5",
   "lastOpenFiles": [
-    "F-Template/Daily.md",
+    "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",
+    "C-Self/c2-Diary/01-Daily/2024-09-01-星期日.md",
+    "2024-W36.md",
     "F-Template/DailyT.md",
+    "H-Attatchment/h2-Obsidian Usage/插件.md",
+    "README.md",
+    "F-Template/Daily.md",
     "C-Self/c2-Diary/01-Daily/未命名.md",
     "未命名.md",
     "F-Template/未命名 2.md",
@@ -215,7 +203,6 @@
     "未命名",
     "C-Self/c3-Event/Meetings/@First Name Last Name.md",
     "C-Self/c3-Event/Meetings",
-    "H-Attatchment/h2-Obsidian Usage/插件.md",
     "C-Self/c5-Exercise/健身笔记.md",
     "E-Resource/e5-Scientific/专业名词积累.md",
     "E-Resource/e6-English/英文语句积累.md",
@@ -235,10 +222,6 @@
     "C-Self/c7-JOb/未命名",
     "C-Self/c7-Job",
     "E-Resource/e5-Scientific/科研储备知识.md",
-    "E-Resource/e4-Skill/Linux.md",
-    "E-Resource/未命名.md",
-    "E-Resource/e4-Skill/web前端.md",
-    "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "A-HomePage/未命名.canvas",
