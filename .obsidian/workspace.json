@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-Template/DailyT.md",
+                "file": "F-Template/Daily.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,18 +22,18 @@
         ]
       },
       {
-        "id": "72064d1ce73c3c25",
+        "id": "22d36bca543bb9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9864a8ee5a8e56",
+            "id": "42866e2cdf93a9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "F-Template/DailyT.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -80,6 +80,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7d76aab031b7795",
+            "type": "leaf",
+            "state": {
+              "type": "runjs-codelist-view",
               "state": {}
             }
           }
@@ -187,14 +195,19 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "surfing:surfing-bookmark-manager": false
+      "surfing:surfing-bookmark-manager": false,
+      "runjs:RunJS": false
     }
   },
-  "active": "6f9864a8ee5a8e56",
+  "active": "42866e2cdf93a9c0",
   "lastOpenFiles": [
     "F-Template/Daily.md",
-    "A-HomePage/HomePage.md",
     "F-Template/DailyT.md",
+    "H-Attatchment/h3-Scripts",
+    "F-Template/未命名.md",
+    "F-Template/未命名 2.md",
+    "F-Template/未命名 1.md",
+    "A-HomePage/HomePage.md",
     "F-Template/MettingT.md",
     "C-Self/c2-Diary/01-Daily/未命名.md",
     "C-Self/c2-Diary/01-Daily/2024-08-31-星期六.md",
@@ -220,16 +233,11 @@
     "C-Self/c7-Job/未命名",
     "C-Self/c7-JOb/未命名",
     "C-Self/c7-Job",
-    "C-Self/c6-Study",
     "E-Resource/e5-Scientific/科研储备知识.md",
     "E-Resource/e4-Skill/Linux.md",
     "E-Resource/未命名.md",
     "E-Resource/e4-Skill/web前端.md",
     "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
-    "E-Resource/e3-Profession/最优化/机器学习/机器学习概述.md",
-    "E-Resource/e3-Profession/最优化/机器学习/集成学习/Boosting.md",
-    "E-Resource/e3-Profession/最优化/机器学习/集成学习/个体与集成.md",
-    "E-Resource/e3-Profession/最优化/机器学习/线性模型/Logistic回归.md",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "A-HomePage/未命名.canvas",

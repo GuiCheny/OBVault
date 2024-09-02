@@ -1,34 +1,53 @@
 ---
 <%* 
-let url = 'https://www.tianqi.com/jinan/'
-let res = await request({url: url,method: "GET"});
+let url = 'https://www.tianqi.com/beijing/' 
+let res = await request({url: url,method: "GET"}); 
 res = res.replace(/\s/g,'') 
-r=/<ddclass="weather">[\s\S]*?<\/dd>/g
-let data = r.exec(res)[0] 
-r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g
-data = r.exec(data)
-let weather='济南'+' '+data[1]+' '+data[2]
+r=/<ddclass="weather">[\s\S]*?<\/dd>/g 
+let data = r.exec(res)[0] r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g 
+data = r.exec(data) 
+let weather='北京'+data[2]+data[1] 
 -%>
-
-type: OKR
+type: 
 tags:
   - review/daily
 date: <% tp.file.creation_date("YYYY-MM-DD-dddd") %>
-weather: <% weather %>
+weather: <%weather%>
 Habit_1:
 Habit_2:
 Habit_3:
 Habit_4:
 ---
 
-
-
 ## DIRECTION
 
 > [!caution] 注意
 > 根据自己笔记库中对于weekly review的命名规则，修改下面这个语句，让它可以自动嵌入上周的weekly review中关于本周计划的部分。
 
-![[Weekly <% tp.date.now("YYYY-ww", -7) %>#This week]]
+
+<%* // 高德天气API，需要高德Key 
+let ipUrl = 'https://restapi.amap.com/v3/ip'; 
+let weatherUrl = 'https://restapi.amap.com/v3/weather/weatherInfo' 
+let key = YOUR_KEY; // 腾讯IP定位，需要腾讯Key 
+let tencentIpUrl = 'https://apis.map.qq.com/ws/location/v1/ip'; 
+let tencentKey = YOUR_KEY; 
+let adcode = eval("(" + await request({url: tencentIpUrl + `?key=${tencentKey}`, method: "GET"}) + ")").result.ad_info.adcode console.log("adcode: " + adcode) let 位置 = '' 
+let 天气 = '' 
+let 温度 = '' 
+let 风向 = '' 
+await fetch(weatherUrl + `?key=${key}&city=${adcode}&extensions=all`) 
+.then(res => res.json()) 
+.then((data) => { 
+	let info = data.forecasts[0] 
+	console.log("info:" + info) 
+	位置 = info.province + '-' + info.city 
+	天气 = '🌅' + info.casts[0].dayweather + ' / 🌃' + info.casts[0].nightweather 温度 = '🌅' + info.casts[0].daytemp_float + '℃' + '/ 🌃' +  info.casts[0].nighttemp_float + '℃' }) 
+	-%> 
+🌻日期🌻 :: <% tp.file.creation_date("YYYY MM DD dddd") %> 
+⌚️时间⌚️ :: <% tp.file.creation_date("HH:mm:ss") %> 
+🌍位置🌍 :: <% 位置 %> 
+☁️天气☁️ :: <% 天气 %> 
+🌡️温度🌡️ :: <% 温度 %>
 
 ## GET READY
 ### Confirmations

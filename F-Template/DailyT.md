@@ -20,20 +20,19 @@ Habit_3:
 Habit_4:
 ---
 
- <div style="font-size: 28px;color:#A27E7E"> 🍳 </div>
+<div style="font-size: 28px;color:#A27E7E"> 🍳 </div>
 
-<div class="day-text">Month Progression</div>
+
+## LIST OF PROGRESS
+
+
 <div class="life-container" style="width:100%;">
 	<div class="life-progress progress-day">0%</div>
 </div>
 
-<div class="month-text">Month Progression</div>
-
 <div class="life-container" style="width:100%;">
 	<div class="life-progress progress-month">0%</div>
 </div>
-
-<div class="year-text">Year Progression</div>
 
 <div class="life-container" style="width:100%;">
 	<div class="life-progress progress-year">0%</div>
@@ -61,8 +60,6 @@ function refreshBar(){
     let barsMonth =document.getElementsByClassName("progress-month")
     let barsYear = document.getElementsByClassName("progress-year")
     
-
-	
 	for(let i = 0; i < barsDay.length; i++){
 		let per = passMinutes / (24*60)
 		if(per < 0.25){
@@ -77,7 +74,7 @@ function refreshBar(){
 		barsDay[i].style.color = "#f1c2e8";
 		barsDay[i].style.fontWeight = "bold";
 		barsDay[i].style.width = per * 100 + "%"
-		barsDay[i].innerHTML = (per * 100).toFixed(0) + "%"
+		barsDay[i].innerHTML = "D: " + (per * 100).toFixed(0) + "%";		
 	}
 
     for(let i = 0; i < barsMonth.length; i++){
@@ -99,7 +96,7 @@ function refreshBar(){
 		barsMonth[i].style.color = "#f1c2e8";
 		barsMonth[i].style.fontWeight = "bold";
 		barsMonth[i].style.width = per * 100 + "%"
-		barsMonth[i].innerHTML = (per * 100).toFixed(0) + "%"
+		barsMonth[i].innerHTML = "M:" + (per * 100).toFixed(0) + "%";
 	}
 
 	for(let i = 0; i < barsYear.length; i++){
@@ -124,11 +121,10 @@ function refreshBar(){
 			barsYear[i].style.backgroundImage = yellowBG;
 		} else {
 			barsYear[i].style.backgroundImage = redBG;
-		}		
-		barsYear[i].style.color = "#f1c2e8";
+		}
 		barsYear[i].style.fontWeight = "bold";
 		barsYear[i].style.width = per * 100 + "%"
-		barsYear[i].innerHTML = (per * 100).toFixed(0) + "%"
+		barsYear[i].innerHTML = "Y: " + (per * 100).toFixed(0) + "%";
 	}
 }
 ```
@@ -141,6 +137,15 @@ function refreshBar(){
 ![[Weekly <% tp.date.now("YYYY-ww", -7) %>#This week]]
 
 ## GET READY
+
+###  Morning Checklist
+
+- [ ] 整理起居
+- [ ] 充足饮水
+- [ ] 晨练晨跑
+- [ ] 深度思考10mins
+- [ ] 整理工作桌面
+
 ### Confirmations
 - 
 
@@ -163,18 +168,13 @@ function refreshBar(){
 -[ ]
 -[ ]
 
-###  Morning Checklist
 
-- [ ] clear and tidy 
-- [ ] drink enough water
-- [ ] morning exercises
-- [ ] 10 minutes meditation
-- [ ] clean room for work
 
 ## RELATIONSHIP
 
 > [!caution] 注意
 > 根据个人需求，修改dataview中的时间，让跟进的时间间隔符合你自己的要求
+
 ### Family
  ```dataview
 table without ID
@@ -183,6 +183,7 @@ from #people/family
 where follow_up = true
 and date_last_spoken <= date(today) - dur(2 days)
 ```
+
 ### Friend
 ```dataview
 table without ID
@@ -192,6 +193,7 @@ where follow_up = true
 and date_last_spoken <= date(today) - dur(1 week)
 ```
  `dice: #people/friend|link`
+ 
 ### Client
 ```dataview
 table without id file.link as Client, date_last_spoken as "Last Time"
@@ -200,6 +202,7 @@ where follow_up = true
 and date_last_spoken <= date(today) - dur(2 week)
 ```
  `dice: #people/client|link`
+ 
 ## REVIEW
 ### Go Back To The Future
 
