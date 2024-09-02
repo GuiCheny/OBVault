@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c3ca0c357b6df98",
+        "id": "11e710c8ab5904ad",
         "type": "tabs",
         "children": [
           {
-            "id": "fb62ac12dd5b4f99",
+            "id": "6ba8652d3db0f71a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-HomePage/HomePage.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-HomePage/HomePage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-HomePage/HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A-HomePage/HomePage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,11 +164,17 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "fb62ac12dd5b4f99",
+  "active": "6ba8652d3db0f71a",
   "lastOpenFiles": [
-    "F-Template/Daily.md",
-    "H-Attatchment/h2-Obsidian Usage/插件.md",
+    "C-Self/c2-Diary/01-Daily/未命名.md",
+    "C-Self/c2-Diary/01-Daily/2024-08-31-星期六.md",
+    "未命名",
+    "F-Template/DailyT.md",
+    "F-Template/MettingT.md",
+    "C-Self/c3-Event/Meetings/@First Name Last Name.md",
     "A-HomePage/HomePage.md",
+    "C-Self/c3-Event/Meetings",
+    "H-Attatchment/h2-Obsidian Usage/插件.md",
     "C-Self/c5-Exercise/健身笔记.md",
     "E-Resource/e5-Scientific/专业名词积累.md",
     "E-Resource/e6-English/英文语句积累.md",
@@ -198,9 +196,7 @@
     "C-Self/c6-Study",
     "E-Resource/e5-Scientific/科研储备知识.md",
     "E-Resource/e4-Skill/Linux.md",
-    "E-Resource/e5-Scientific",
     "E-Resource/未命名.md",
-    "E-Resource/e3-Profession/Knowledge",
     "E-Resource/e4-Skill/web前端.md",
     "E-Resource/e3-Profession/统计分析/相关性分析（三大统计分析方法）.md",
     "E-Resource/e3-Profession/最优化/机器学习/机器学习概述.md",
@@ -208,10 +204,6 @@
     "E-Resource/e3-Profession/最优化/机器学习/集成学习/个体与集成.md",
     "E-Resource/e3-Profession/最优化/机器学习/线性模型/Logistic回归.md",
     "E-Resource/e3-Profession/机器学习/未命名 1.md",
-    "E-Resource/e3-Profession/最优化/机器学习/线性模型/Lasso回归.md",
-    "E-Resource/e3-Profession/最优化/机器学习/线性模型/岭回归.md",
-    "E-Resource/e3-Profession/最优化/机器学习/线性模型/线性回归.md",
-    "E-Resource/e3-Profession/最优化/机器学习/线性模型/线性模型.md",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "A-HomePage/未命名.canvas",
