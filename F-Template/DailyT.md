@@ -167,11 +167,7 @@ function refreshBar(){
 -[ ]
 
 
-
 ## RELATIONSHIP
-
-> [!caution] 注意
-> 根据个人需求，修改dataview中的时间，让跟进的时间间隔符合你自己的要求
 
 ### Family
 
@@ -208,31 +204,47 @@ and date_last_spoken <= date(today) - dur(2 week)
 
 ### Go Back To The Future
 
-> [!caution] 注意
-> 把标签换成你日记的标签就可以了
-
  `dice: #review/daily|link`
 ### What happened today?
+
 #### Project
 
-> [!important] Prompt
-> 今天关于项目的内容，请按照以下步骤进行复盘: 
-> 1.回顾目标 2.叙述过程（5W1H）3.评估结果（SWOT）4.分析原因 （5WHYs） 5.推演规律  6.记录归档 
+> [!IMPORTANT]+ Prompt
+> **1. 回顾目标** 
+> > 重新审视目标，确保工作围绕重心，步骤清晰可行。
+> 
+> **2. 叙述过程（5W1H)**
+> > What（什么），Why（为什么），When（何时），Where（何地），Who（谁），How（如何）
+> 
+> **3. 评估结果（SWOT)**
+> > 分析当前结果的优势（Strengths）、劣势（Weaknesses）、机会(Opportunities) 和威胁(Threats)。
+> 
+> **4. 分析原因 （5WHYs）** 
+> > 每次回答”为什么"后再问自己一次"为什么”，直到找到根本问题。
+> 
+> **5. 推演规律**  
+> > 基于前面分析得出的规律或模式，继续推演或者制定出适应未来的规则或策略。
+> 
+> **6. 记录归档**  
+> > 将所有分析、过程、结论和推演的规律记录下来，并进行归档。便
+ 
 
-*Achivement*
+***Achivement***
+- 
 
-*Opportunity*
+***Opportunity***
+- 
 
-*Action Plan*
-
+***Action Plan***
+- 
 
 #### About Today
 
- *win*
+ ***win***
 
-*struggle*
+***struggle***
 
-*other*
+***other***
 
 
 #### Idea
@@ -242,15 +254,12 @@ and date_last_spoken <= date(today) - dur(2 week)
 - 
 
 ## END-OF-DAY CHECKLIST
-- [ ] GTD
-- [ ] bookkeeping
-- [ ] review bookmarks
-- [ ] check [[Habit Tracker]]
+
+- [ ] GTD & Tasks
+- [ ] Check [[Habit Tracker]]
+- [ ] Check E-mail inbox
 - [ ] Back Up
-	- [ ] Time Machine
 	- [ ] Obsidian Vault
-- [ ] clean up the photos and videos
-- [ ] check e-mail inbox
 
 ## HABIT TRACKER
 

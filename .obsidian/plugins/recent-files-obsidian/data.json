@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-02-星期一",
-      "path": "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md"
+      "basename": "集成学习示意图",
+      "path": "H-Attatchment/h1-Files/集成学习示意图.png"
+    },
+    {
+      "basename": "Homepage",
+      "path": "A-HomePage/Homepage.md"
     },
     {
       "basename": "MettingT",
@@ -11,6 +15,10 @@
     {
       "basename": "DailyT",
       "path": "F-Template/DailyT.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Inbox.md"
     }
   ],
   "omittedPaths": []

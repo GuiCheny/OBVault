@@ -1,6 +1,5 @@
 [
   "dataview",
-  "obsidian-tasks-plugin",
   "obsidian-kanban",
   "quickadd",
   "obsidian-git",
@@ -16,5 +15,7 @@
   "surfing",
   "obsidian-emoji-toolbar",
   "recent-files-obsidian",
-  "buttons"
+  "buttons",
+  "tasks-calendar-wrapper",
+  "obsidian-tasks-plugin"
 ]
