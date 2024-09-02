@@ -68,7 +68,7 @@
     "useQuickAddTemplateFolder": true,
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
-    "setVersionAfterUpdateModalRelease": false,
+    "setVersionAfterUpdateModalRelease": true,
     "addDefaultAIProviders": false
   }
 }

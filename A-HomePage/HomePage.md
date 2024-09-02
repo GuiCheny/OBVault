@@ -41,8 +41,8 @@ widgets:
         timeTextPattern: yMd
         title: Sdu📝
         startDateTime: 2024-09-03
-        backgroundColor: "#292d43"
-        fontColor: "#f1c2e8"
+        backgroundColor: "#292d43" //背景颜色
+        fontColor: "#f1c2e8" //字体颜色
     layoutType: column
 layoutType: column
 

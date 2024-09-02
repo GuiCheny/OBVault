@@ -1,14 +1,15 @@
 ---
 <%* 
-let url = 'https://www.tianqi.com/shanghai/'
+let url = 'https://www.tianqi.com/jinan/'
 let res = await request({url: url,method: "GET"});
 res = res.replace(/\s/g,'') 
 r=/<ddclass="weather">[\s\S]*?<\/dd>/g
 let data = r.exec(res)[0] 
 r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g
 data = r.exec(data)
-let weather='上海'+' '+data[1]+' '+data[2]
+let weather='济南'+' '+data[1]+' '+data[2]
 -%>
+
 type: OKR
 tags:
   - review/daily
@@ -20,118 +21,7 @@ Habit_3:
 Habit_4:
 ---
 
- <div style="font-size: 28px;color:#A27E7E"> 🍳 </div>
 
-<div class="day-text">Month Progression</div>
-<div class="life-container" style="width:100%;">
-	<div class="life-progress progress-day">0%</div>
-</div>
-
-<div class="month-text">Month Progression</div>
-
-<div class="life-container" style="width:100%;">
-	<div class="life-progress progress-month">0%</div>
-</div>
-
-<div class="year-text">Year Progression</div>
-
-<div class="life-container" style="width:100%;">
-	<div class="life-progress progress-year">0%</div>
-</div>
-
-```dataviewjs
-setInterval(refreshBar,1000) // 刷新间隔为1秒
-
-const monthsLeap = [31,29,31,30,31,30,31,31,30,31,30,31]
-const monthsCommon = [31,28,31,30,31,30,31,31,30,31,30,31]
-
-const greenBG = 'repeating-linear-gradient(45deg, #13ce66 0, #13ce66 10px, #36d57d 10px, #36d57d 20px)'; // 进度条在 0~25% 之间的背景, 背景为绿色
-const blueBG = 'repeating-linear-gradient(45deg, #50bfff 0, #50bfff 10px, #6ac9ff 10px, #6ac9ff 20px)'; // 进度条在 25~50% 之间的背景, 背景为蓝色
-const yellowBG = 'repeating-linear-gradient(45deg, #f7ba2a 0, #f7ba2a 10px, #f8c44a 10px, #f8c44a 20px)'; // 进度条在 50~75% 之间的背景, 背景为黄色
-const redBG = 'repeating-linear-gradient(45deg, #ff4949 0, #ff4949 10px, #ff6464 10px, #ff6464 20px)'; // 进度条在 75%~100% 之间的背景, 背景为红色
-
-function refreshBar(){
-	let date = new Date()
-	let passMinutes = date.getHours()*60+date.getMinutes()
-    let passDate = date.getDate()
-	let month = date.getMonth()
-	let year = date.getFullYear()
-
-	let barsDay = document.getElementsByClassName("progress-day")
-    let barsMonth =document.getElementsByClassName("progress-month")
-    let barsYear = document.getElementsByClassName("progress-year")
-    
-
-	
-	for(let i = 0; i < barsDay.length; i++){
-		let per = passMinutes / (24*60)
-		if(per < 0.25){
-			barsDay[i].style.backgroundImage = greenBG;
-		} else if(per < 0.5){
-			barsDay[i].style.backgroundImage = blueBG;
-		} else if(per < 0.75){
-			barsDay[i].style.backgroundImage = yellowBG;
-		} else {
-			barsDay[i].style.backgroundImage = redBG;
-		}
-		barsDay[i].style.color = "#f1c2e8";
-		barsDay[i].style.fontWeight = "bold";
-		barsDay[i].style.width = per * 100 + "%"
-		barsDay[i].innerHTML = (per * 100).toFixed(0) + "%"
-	}
-
-    for(let i = 0; i < barsMonth.length; i++){
-		let per;
-		if(year % 4 == 0 && year % 100 != 0 || year % 400 == 0){
-			per = passDate / monthsLeap[month]
-		} else {
-			per = passDate / monthsCommon[month]
-		}
-		if(per < 0.25){
-			barsMonth[i].style.backgroundImage = greenBG;
-		} else if(per < 0.5){
-			barsMonth[i].style.backgroundImage = blueBG;
-		} else if(per < 0.75){
-			barsMonth[i].style.backgroundImage = yellowBG;
-		} else {
-			barsMonth[i].style.backgroundImage = redBG;
-		}
-		barsMonth[i].style.color = "#f1c2e8";
-		barsMonth[i].style.fontWeight = "bold";
-		barsMonth[i].style.width = per * 100 + "%"
-		barsMonth[i].innerHTML = (per * 100).toFixed(0) + "%"
-	}
-
-	for(let i = 0; i < barsYear.length; i++){
-		let per;
-		let passDays = date.getDate();
-		if(year % 4 == 0 && year % 100 != 0 || year % 400 == 0){
-		for(let i = 0; i < month; i++){
-			passDays += monthsLeap[i]
-		}
-			per = passDays / 366
-		} else {
-		for(let i = 0; i < month; i++){
-			passDays += monthsCommon[i]
-		}
-			per = passDays / 365
-		}
-		if(per < 0.25){
-			barsYear[i].style.backgroundImage = greenBG;
-		} else if(per < 0.5){
-			barsYear[i].style.backgroundImage = blueBG;
-		} else if(per < 0.75){
-			barsYear[i].style.backgroundImage = yellowBG;
-		} else {
-			barsYear[i].style.backgroundImage = redBG;
-		}		
-		barsYear[i].style.color = "#f1c2e8";
-		barsYear[i].style.fontWeight = "bold";
-		barsYear[i].style.width = per * 100 + "%"
-		barsYear[i].innerHTML = (per * 100).toFixed(0) + "%"
-	}
-}
-```
 
 ## DIRECTION
 
@@ -145,31 +35,14 @@ function refreshBar(){
 - 
 
 ### GTD & Top 3 Tasks
-
-> [!NOTE]+ Get Things Done
-> **1. 收集**：收集所有任务、想法、计划、待办事项。
-> **2. 组织**：审视待办任务，分类所有任务和行动步骤，并回顾过往未完成的项目。
-> > **2.1 分类**：根据任务属性（环境Context、项目Project、状态Status、截止时间Due）分类，单独任务、父子任务、项目类属任务...
-> > 
-> > **2.2 回顾**：定期回顾+跟踪进度，优先级排序。
-> 
-> **3. 执行**：专注于当前任务，避免分散注意力，提高工作效率。
-
-### Todo list
-
--[ ]
--[ ]
--[ ]
--[ ]
--[ ]
+- [ ] 
 
 ###  Morning Checklist
-
-- [ ] clear and tidy 
 - [ ] drink enough water
 - [ ] morning exercises
 - [ ] 10 minutes meditation
 - [ ] clean room for work
+- [ ] review highlights on [readwise](https://readwise.io/dashboard)
 
 ## RELATIONSHIP
 
