@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d11930346f323ea",
+        "id": "a5c7f22e9f85a8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e2ab674b2d34a5",
+            "id": "d119deabd2ec649f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-Template/DailyT.md",
-                "mode": "preview",
+                "file": "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -78,15 +78,31 @@
       {
         "id": "4edbcd927bc7cbc9",
         "type": "tabs",
-        "dimension": 53.30882352941176,
+        "dimension": 61.274509803921575,
         "children": [
+          {
+            "id": "9cef4f49578ef052",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "097e88789fc762e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "f4bf88fc38a61ba0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-Template/DailyT.md",
+                "file": "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,35 +119,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-Template/DailyT.md",
+                "file": "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "097e88789fc762e7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9cef4f49578ef052",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "060f8f2825670705",
         "type": "tabs",
-        "dimension": 46.69117647058824,
+        "dimension": 38.72549019607843,
         "children": [
           {
             "id": "f41cb480fa3542f4",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-Template/DailyT.md"
+                "file": "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,23 +182,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c9e2ab674b2d34a5",
+  "active": "d119deabd2ec649f",
   "lastOpenFiles": [
+    "Inbox.md",
     "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",
-    "C-Self/c2-Diary/01-Daily/2024-09-01-星期日.md",
-    "2024-W36.md",
+    "2024, September 02 - Monday.md",
+    "F-Template/MettingT.md",
+    "C-Self/c2-Diary/01-Daily/未命名.md",
     "F-Template/DailyT.md",
+    "未命名.md",
+    "2024-W36.md",
+    "C-Self/c2-Diary/01-Daily/2024-09-01-星期日.md",
     "H-Attatchment/h2-Obsidian Usage/插件.md",
     "README.md",
     "F-Template/Daily.md",
-    "C-Self/c2-Diary/01-Daily/未命名.md",
-    "未命名.md",
     "F-Template/未命名 2.md",
     "H-Attatchment/h3-Scripts",
     "F-Template/未命名.md",
     "F-Template/未命名 1.md",
     "A-HomePage/HomePage.md",
-    "F-Template/MettingT.md",
     "C-Self/c2-Diary/01-Daily/2024-08-31-星期六.md",
     "未命名",
     "C-Self/c3-Event/Meetings/@First Name Last Name.md",
@@ -216,12 +218,10 @@
     "Z",
     "C-Self/c1-Todo List/未命名.md",
     "C-Self/未命名.md",
-    "E-Resource/e4-Skill/深度学习环境搭建指南.md",
     "C-Self/c8-Life",
     "C-Self/c7-Job/未命名",
     "C-Self/c7-JOb/未命名",
     "C-Self/c7-Job",
-    "E-Resource/e5-Scientific/科研储备知识.md",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "A-HomePage/未命名.canvas",
