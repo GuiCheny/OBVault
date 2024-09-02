@@ -1,20 +1,17 @@
 ---
-<%*
-let url = 'https://www.tianqi.com/shanghai/'
+<%* 
+let url = 'https://www.tianqi.com/jinan/'
 let res = await request({url: url,method: "GET"});
-res = res.replace(/\s/g,'')
+res = res.replace(/\s/g,'') 
 r=/<ddclass="weather">[\s\S]*?<\/dd>/g
-let data = r.exec(res)[0]
-r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g
-data = r.exec(data)
-let weather='济南'+'-'+data[1]+'-'+data[2]
--%>
-type: 
+let data = r.exec(res)[0] 
+r = /<span><b>(.*?)<\/b>(.*?)<\/span>/g---
+type: OKR
 tags:
-  - review/daily
-date: <% tp.file.creation_date("YYYY-MM-DD-dddd") %>
-weather: <% weather %>
-Habit_1: 
+  - review/daily
+date: 2024-07-23-星期二
+weather: 济南 小雨 20~26℃
+Habit_1:
 Habit_2:
 Habit_3:
 Habit_4:
@@ -38,7 +35,6 @@ Habit_4:
 </div>
 
 ```dataviewjs
-
 setInterval(refreshBar,1000) // 刷新间隔为1秒
 
 const monthsLeap = [31,29,31,30,31,30,31,31,30,31,30,31]
@@ -126,7 +122,6 @@ function refreshBar(){
 		barsYear[i].innerHTML = "Y: " + (per * 100).toFixed(0) + "%";
 	}
 }
-
 ```
 
 ## DIRECTION
