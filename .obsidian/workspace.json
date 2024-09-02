@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "560f890ebf0d1d25",
+        "id": "954fb96712ce73a0",
         "type": "tabs",
         "children": [
           {
-            "id": "935c3f81715894ff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "H-Attatchment/h1-Files/集成学习示意图.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5bbd3e3de0c3dfea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c2c9362043ffda7",
+            "id": "27b9f40a89fef406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-HomePage/Homepage.md",
+                "file": "A-HomePage/HomePage.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "H-Attatchment/h1-Files/集成学习示意图.png",
+                "file": "A-HomePage/HomePage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "H-Attatchment/h1-Files/集成学习示意图.png",
+                "file": "A-HomePage/HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "H-Attatchment/h1-Files/集成学习示意图.png"
+                "file": "A-HomePage/HomePage.md"
               }
             }
           },
@@ -179,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +185,16 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "surfing:surfing-bookmark-manager": false,
-      "runjs:RunJS": false,
-      "obsidian-day-planner:Timeline": false
+      "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "0fadf5197f5f5c77",
+  "active": "27b9f40a89fef406",
   "lastOpenFiles": [
+    "H-Attatchment/h1-Files/banner/微信图片_20240902174339.jpg",
+    "A-HomePage/HomePage.md",
+    "H-Attatchment/h2-Obsidian Usage/插件.md",
+    "H-Attatchment/h1-Files/集成学习示意图.png",
     "H-Attatchment/h1-Files/banner",
-    "A-HomePage/Homepage.md",
     "F-Template/MettingT.md",
     "F-Template/DailyT.md",
     "A-HomePage/00. 主页.md",
@@ -223,7 +207,6 @@
     "未命名.md",
     "2024-W36.md",
     "C-Self/c2-Diary/01-Daily/2024-09-01-星期日.md",
-    "H-Attatchment/h2-Obsidian Usage/插件.md",
     "README.md",
     "F-Template/Daily.md",
     "F-Template/未命名 2.md",
@@ -239,14 +222,12 @@
     "E-Resource/e6-English/英文语句积累.md",
     "E-Resource/e6-English/英文写作积累.md",
     "E-Resource/e6-English",
-    "H-Attatchment/h1-Files/集成学习示意图.png",
     "H-Attatchment/h1-Files/Pasted image 20240822203812.png",
     "H-Attatchment/h2-Obsidian Usage",
     "Z",
     "C-Self/c8-Life",
     "C-Self/c7-Job/未命名",
     "C-Self/c7-JOb/未命名",
-    "C-Self/c7-Job",
     "H-Attatchment/h1-Files/Pasted image 20240822214016.png",
     "H-Attatchment/h1-Files/Pasted image 20240822182309.png",
     "A-HomePage/未命名.canvas",
