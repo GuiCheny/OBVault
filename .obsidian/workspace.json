@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-HomePage/HomePage.md",
-                "mode": "preview",
+                "file": "Channel-Adaptive Wireless Image Transmission With OFDM.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0629513093acbc0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a619168ee2081653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Channel-Adaptive Wireless Image Transmission With OFDM.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3b30501f756bf349",
@@ -118,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-HomePage/HomePage.md",
+                "file": "Channel-Adaptive Wireless Image Transmission With OFDM.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-HomePage/HomePage.md",
+                "file": "Channel-Adaptive Wireless Image Transmission With OFDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-HomePage/HomePage.md"
+                "file": "Channel-Adaptive Wireless Image Transmission With OFDM.md"
               }
             }
           },
@@ -203,9 +222,10 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "b23f719732966249",
+  "active": "a619168ee2081653",
   "lastOpenFiles": [
     "A-HomePage/HomePage.md",
+    "Channel-Adaptive Wireless Image Transmission With OFDM.md",
     "H-Attatchment/h1-Files/banner/微信图片_20240902174339.jpg",
     "H-Attatchment/h2-Obsidian Usage/插件.md",
     "H-Attatchment/h1-Files/集成学习示意图.png",
