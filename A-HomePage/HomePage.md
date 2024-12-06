@@ -1,9 +1,13 @@
 ---
+cssclasses:
+  - homepage
 banner_x: 0.62858
 banner_y: 0.65048
 target: 10000
 banner: "![[微信图片_20240902174339.jpg]]"
 banner_lock: true
+---
+##  Guicheny
 ---
 
 

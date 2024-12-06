@@ -9,7 +9,7 @@
   "bannerDragModifier": "none",
   "iconHorizontalAlignment": "left",
   "iconHorizontalTransform": null,
-  "iconVerticalAlignment": "center",
+  "iconVerticalAlignment": "above",
   "iconVerticalTransform": null,
   "useTwemoji": false,
   "showPreviewInLocalModal": false,

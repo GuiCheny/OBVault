@@ -2,6 +2,9 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "picture_align"
+    "picture_align",
+    "【主页】homepage setting",
+    "【MarkDown强制增加图片对齐语法】picture_align",
+    "【处理Properity显示问题】properity"
   ]
 }

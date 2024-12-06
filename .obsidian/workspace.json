@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "954fb96712ce73a0",
+        "id": "9ea2b48a3379c973",
         "type": "tabs",
         "children": [
           {
-            "id": "27b9f40a89fef406",
+            "id": "b23f719732966249",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,6 +31,7 @@
       {
         "id": "b56d8af6c68955cc",
         "type": "tabs",
+        "dimension": 67.14100905562742,
         "children": [
           {
             "id": "0fadf5197f5f5c77",
@@ -66,6 +67,29 @@
             }
           }
         ]
+      },
+      {
+        "id": "61c73f1d3f5690a0",
+        "type": "tabs",
+        "dimension": 32.85899094437257,
+        "children": [
+          {
+            "id": "eb7445482c51dd6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9cef4f49578ef052",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,16 +102,8 @@
       {
         "id": "4edbcd927bc7cbc9",
         "type": "tabs",
-        "dimension": 39.09313725490196,
+        "dimension": 40.56372549019608,
         "children": [
-          {
-            "id": "9cef4f49578ef052",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
           {
             "id": "097e88789fc762e7",
             "type": "leaf",
@@ -125,13 +141,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "060f8f2825670705",
         "type": "tabs",
-        "dimension": 60.90686274509803,
+        "dimension": 59.43627450980392,
         "children": [
           {
             "id": "f41cb480fa3542f4",
@@ -171,8 +186,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -188,17 +203,16 @@
       "surfing:surfing-bookmark-manager": false
     }
   },
-  "active": "27b9f40a89fef406",
+  "active": "b23f719732966249",
   "lastOpenFiles": [
-    "H-Attatchment/h1-Files/banner/微信图片_20240902174339.jpg",
     "A-HomePage/HomePage.md",
+    "H-Attatchment/h1-Files/banner/微信图片_20240902174339.jpg",
     "H-Attatchment/h2-Obsidian Usage/插件.md",
     "H-Attatchment/h1-Files/集成学习示意图.png",
     "H-Attatchment/h1-Files/banner",
     "F-Template/MettingT.md",
     "F-Template/DailyT.md",
     "A-HomePage/00. 主页.md",
-    "A-HomePage/HomePage.md",
     "F-Template/Habit Tracker.md",
     "Inbox.md",
     "C-Self/c2-Diary/01-Daily/2024-09-02-星期一.md",

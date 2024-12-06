@@ -1,0 +1,31 @@
+
+
+/* 修复主页banner头图和 Properties 高度冲突以及多余留白改善 
+div.mod-header:has(+ div.obsidian-banner-wrapper) {
+	margin-top:var(--banner-height) !important;
+}
+.obsidian-banner-wrapper {
+	margin-top:unset;
+}
+*/	
+
+/* 处理掉主页的properties */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.homepage
+.metadata-container{
+    display: none;
+}
+
+/* 处理掉rightlane的properties */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.rightlane
+.metadata-container{
+    display: none;
+}
+
+/* 处理掉noyaml的properties */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.noyaml
+.metadata-container{
+    display: none;
+}
